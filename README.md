@@ -1,14 +1,39 @@
-- 👋 Hi, I’m @Joseph-kwofie
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ...web development using
--Html
--css
--javascript
- -php 
--java
-and cyber security(penetration testing) 
-- 💞️ I’m looking to collaborate on organization or individual to help me develop
-- 📫 How to reach me on ananzokwofie@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Joseph Kwofie
 
+💻 About Me
+I’m passionate about Cybersecurity and Software Development, with a strong interest in building secure, user-friendly applications. 
+I’m currently honing my skills in web development, desktop applications, and penetration testing.
+
+🔍 Interests
+Cybersecurity (Penetration Testing & Ethical Hacking)
+
+Web Development (Frontend & Backend)
+
+Desktop Applications (JavaFX, Java)
+
+Database Querying (MySQL)
+
+Cross-Language Development (Python, C++)
+
+📚 Currently Learning
+Frontend: HTML, CSS, JavaScript
+
+Backend: PHP, Java
+
+Scripting & Automation: Python
+
+System Programming: C++
+
+Databases: MySQL (queries, joins, optimization)
+
+Cybersecurity: Penetration Testing, Network Security
+
+
+🤝 Collaboration Goals
+I’m open to collaborating with organizations or individuals on projects that improve security and software functionality, especially in education, fintech, and cybersecurity tools.
+
+📫 Contact Me
+Email: ananzokwofie@gmail.com
+
+⚡ Fun Fact
+I love debugging, not because it’s easy—but because it’s like being a detective in a crime where you’re also the culprit.
