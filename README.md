@@ -7,7 +7,7 @@ I’m currently honing my skills in web development, desktop applications, and p
 🔍 Interests
 Cybersecurity (Penetration Testing & Ethical Hacking)
 
-Web Development (Frontend & Backend)
+Web Development (Frontend)
 
 Desktop Applications (JavaFX, Java)
 
